@@ -91,3 +91,8 @@ npm run dev
 - `score` は各レベルの確率(`probabilities`)を重み付けした値（例: 2.92 ＝ ほぼレベル3）。
 - `probabilities` は**レベル番号をキーにしたオブジェクト**（choice では選択肢キーがキー）。
 - `legend` に各レベル/選択肢の説明が同梱される。`choice`/`score` には `confidence` が付き、`noul` には付かない。
+
+## 画面
+
+<img alt="localhost" src="https://github.com/user-attachments/assets/22ed48cf-e58d-4035-8faa-87213bd5f3ed" />
+
